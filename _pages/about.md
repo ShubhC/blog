@@ -4,8 +4,8 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+![](prao.png)
 
+I'm a data scientist, developer and engineer who is curious about everything happening in the world. I'm passionate about building intelligent, end to end automated systems. 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+I'm currently working as a Data Scientist at Microsoft on developing pragmatic ML algorithms and engineering systems to understand search queries.
